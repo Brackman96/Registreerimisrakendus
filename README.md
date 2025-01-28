@@ -1,0 +1,2 @@
+# Registreerimisrakendus
+Kooli registreerimis rakendus
